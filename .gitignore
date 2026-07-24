@@ -1,0 +1,30 @@
+# VMware
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.nvram
+*.lck
+*.vmxf
+*.vmtm
+*.log
+
+# Ảnh đĩa và bộ cài
+*.iso
+*.exe
+*.msi
+
+# File nén lớn
+*.rar
+*.7z
+
+# Thư mục máy ảo và snapshot
+.vmware/
+Snapshots/
+Virtual Machines/
+
+# File tạm
+~$*
+Thumbs.db
+desktop.ini
+
